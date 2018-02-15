@@ -1,2 +1,3 @@
 # linuxgold
 Agitate directive 
+//Xn
